@@ -1,0 +1,7 @@
+Implementação do envio de mensagens.
+
+Errado: Na implementação errada, na classe "UsuarioService" há uma dependência direta na instanciação do objeto "emailService", 
+ferindo assim o princípio.
+
+Correto: Criação da interface "Notificador", onde é implementado nas duas classes "SMSService" e "EmailService", fazendo assim 
+com que seja possível uma abstração abstrata na classe "UsuarioService" por conta da interface "Notificador" como atributo.

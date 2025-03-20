@@ -1,0 +1,8 @@
+Cálculo dos salários de funcionários.
+
+Errado: Na implementação errada, o princípio é ferido no método "calculaSalario" o cálculo do salário dos funcionários Analista e 
+Arquiteto em conjunto, ocasionando em um código complicado e embaraçoso.
+
+Correto: Criada uma classe abstrata "CalculaSalario" com o método abstrato "calculaSalario", fazendo herança nas classes 
+"CalculaSalarioAnalista" e "CalculaSalarioArquiteto", implementando o cálculo separado, tendo assim coesão e facilidade 
+na leitura do código.

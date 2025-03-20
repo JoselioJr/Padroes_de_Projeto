@@ -1,0 +1,9 @@
+Implementação de formas geométricas 2D e 3D.
+
+Errado: Na implementação errada, a interface "FomaGeometrica" é criado os dois métodos para as duas formas geométricas, 
+em 2D e 3D. No cálculo da Área e Volume. Ocasionando assim na implementação de métodos obsoletos nas classes Quadrado e 
+Triangulo pois não é possível calcular o volume de tais, e na classe cubo que não é possível ser realizado o cálculo da sua área.
+
+Correto: É criado 2 interfaces, para as formas geométricas 2D e 3D. Sendo implementada o método de cálculo da área na interface 
+"FormaGeométrica2D" nas classes Quadrado e Triangulo, e o método de cálculo do volume na interface "FormaGeométrica3D", 
+implementada na classe Cubo.

@@ -1,0 +1,10 @@
+Implementação de formas geométricas e de Características de Pássaros.
+
+Errado: Na implementação errada, a parte da herança foi realizada de forma inadequada, onde retrata que a classe 
+Quadrado herda da classe Retangulo, de forma coesa se encontra correto, pois o quadrado é um retângulo matematicamente, 
+tendo todas as características de um retângulo. Mas ao realizar algumas implementações, exemplo da alteração de tamanho das figuras, 
+sendo que se realizamos o aumento não linear de um quadrado, fere a sua lógica de altura e comprimento iguais.
+
+Correto: Implementação da classe abstrata Passaro, que realiza a herança para as classes Andorinha e Pinguim, 
+herdando todos os métodos. Demonstrando assim o exemplo de uma herança adequada, onde podemos realizar a inversão 
+das classes, que não ferirá a coesão.

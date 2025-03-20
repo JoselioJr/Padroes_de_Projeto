@@ -1,0 +1,7 @@
+Implementação da gestão de uma escola.
+
+Errado: Na implementação errada, o princípio é ferido na falta das classes Cobranca e Financeiro, ocasionando na implementação 
+dos métodos "pagamentoFuncionario", "compraDeMaterial" e "cobrarMensalidade" na classe Diretoria, tendo uma falha na coesão.
+
+Correto: Acrescentada as classes Cobranca e Financeiro, implementados os métodos "pagamentoFuncionario" e "compraDeMaterial" 
+na classe Financeiro e o método "cobrarMensalidade" na classe Cobranca. Tendo assim coesão em toda a implementação.
