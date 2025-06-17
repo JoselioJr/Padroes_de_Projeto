@@ -13,4 +13,5 @@ Padrões de Projeto (Design Patterns) são soluções reutilizáveis para proble
 - [Atividade 11 - Aula 12](https://github.com/JoselioJr/Padroes_de_Projeto/tree/af05fc43a27f8c221c5e5e25be9d43c5f488054a/Aula_12);
 - [Atividade 12 - Aula 13](https://github.com/JoselioJr/Padroes_de_Projeto/tree/af05fc43a27f8c221c5e5e25be9d43c5f488054a/Aula_13);
 - [Atividade 13 - Aula 14](https://github.com/JoselioJr/Padroes_de_Projeto/tree/c490de5dacd26cb0834dacd8c136134fc33b7e0b/Aula_14);
+- [Atividade 14 - Aula 15](https://github.com/JoselioJr/Padroes_de_Projeto/tree/f9e656fd9cbba566d27b7bb03ea06ebb76ed9808/Aula_15);
 - [Trabalho Final](https://github.com/JoselioJr/Padroes_de_Projeto/tree/ebd2a49cc6c22d78d97000add5374f165e45dcd5/Trabalho_Final).
